@@ -785,5 +785,5 @@ def ale_plot(
                 n_feat=len(features)
             )
         )
-    plt.show()
+   
     return ax
